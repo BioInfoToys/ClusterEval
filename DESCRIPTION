@@ -1,0 +1,19 @@
+Package: ClusterEval
+Title: Evaluating clusters and clustering
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Stuart",
+           family = "Jefferys",
+           role = c("aut", "cre"),
+           email = "srjefferys@gmail.com",
+           comment = c(ORCID = "0000-0001-6259-085X"))
+Description: A toolbox for exploring and evaluating clustering. Not much here
+ yet.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

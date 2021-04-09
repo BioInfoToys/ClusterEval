@@ -1,0 +1,13 @@
+
+# R
+## R CLI history
+.Rhistory
+
+## R (interactive) global environment cache
+.RData
+
+## R [Not sure why this is here]
+.Ruserdata
+
+# RStudio user-specific info.
+.Rproj.user
