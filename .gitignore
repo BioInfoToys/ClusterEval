@@ -11,3 +11,6 @@
 
 # RStudio user-specific info.
 .Rproj.user
+
+# Generated documentation
+*.html
